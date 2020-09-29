@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<%-- <jsp:forward page="/login"></jsp:forward> --%>
+
 <jsp:forward page="/reg1"></jsp:forward>
 </body>
 </html>
